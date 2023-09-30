@@ -1,12 +1,23 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Zheng WEI"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+<!-- ## About me -->
+<br>
+I am a 2nd year Ph.D. student in the Thrust of Earth, Ocean and Atmospheric Sciences at the Hong Kong University of Science and Technology (Guangzhou). Before joining HKUST(GZ) in September 2022, I did my master's research in the [School of Oceanography](https://soo.sjtu.edu.cn), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn), working with [Prof. Zharu Zhang](https://soo.sjtu.edu.cn/szTeachers/3589.html). I did some work in the air-ice-sea interaction processes in the Souther Ocean. I received my bachelor's degree of Petrolumn Engineering in the [School of Petroleum Engineering](https://pe.upc.edu.cn/?ivk_sa=1024320u), [China University of Petroleum](https://www.upc.edu.cn).
+
+Now, I am doing some Large 
+
+Currently, I serve as a research intern in Speech and Semantic Group of Huawei Noah's Ark Lab (Hong Kong).
+
+This webpage is last updated on **Sep 30, 2023**.
+
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
