@@ -16,6 +16,23 @@ Now, I am doing Large Eddy Simulations by using software ***[Oceananigans.jl](ht
 
 This webpage is last updated on **Sep 30, 2023**.
 
+## Research Interests
+* Boundary layer turbulence simulation
+* Boundary layer turbulence parameterization
+
+## Education
+* **The Hong Kong University of Science and Technology (Guangzhou) [(HKUST(GZ))](https://www.hkust-gz.edu.cn/), Guangzhou, China**
+  * Ph.D. student in [Earth, Ocean and Atmospheric Sciences Thrust](https://funh.hkust-gz.edu.cn/en/thrust/eoas),  *Sept. 2022 -- Present*
+
+* **Shanghai Jiao Tong University [(SJTU)](https://www.sjtu.edu.cn/), Shanghai, China**
+  * M.S. of [*Physical Oceanography*](https://soo.sjtu.edu.cn/), *Sept. 2019 -- Jun. 2022*
+  * GPA: 3.31/4.0 (3/40)
+
+* **China University of Petroleum [(UPC)](https://www.upc.edu.cn/), Tsingtao, China**
+  * B.S. of [*Petroleum Engineering*](https://pe.upc.edu.cn/), *Sept. 2015 -- Jun. 2019*
+  * GPA: 3.7/4.0 (14/273)
+
+
 ## Sitemap
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Dq7wm0gzuH5jsxTQdeQIm6kxODHyCrSxx9lVSu0jSYQ&cl=ffffff&w=a"></script>
 
