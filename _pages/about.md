@@ -17,7 +17,7 @@ Now, I am doing Large Eddy Simulations by using software ***[Oceananigans.jl](ht
 This webpage is last updated on **Sep 30, 2023**.
 
 ## Sitemap
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=288&t=m&d=2ljZF6KFfkxp4wxQ6pxUE1Dq5gPitQBApoOxIIRgnkU'></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Dq7wm0gzuH5jsxTQdeQIm6kxODHyCrSxx9lVSu0jSYQ&cl=ffffff&w=a"></script>
 
 A data-driven personal website
 ======
