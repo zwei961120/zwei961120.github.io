@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Zheng WEI"
 title_separator          : "-"
-name                     : "Zheng WEI"
-description              : "A second-year Ph.D. student interested in ocean boundary layer mixing processes and their parameterizations~"
+name                     : &name "Zheng WEI"
+description              : &description "A second-year Ph.D. student interested in ocean boundary layer mixing processes and their parameterizations~"
 url                      : https://zwei961120.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : zwei961120.github.io
