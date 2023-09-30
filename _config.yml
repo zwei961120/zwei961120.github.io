@@ -11,7 +11,7 @@ title                    : "Zheng WEI"
 title_separator          : "-"
 name                     : &name "Zheng WEI"
 description              : &description "A second-year Ph.D. student interested in ocean boundary layer mixing processes and their parameterizations~"
-url                      : https://github.com/zwei961120.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://zwei961120.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : zwei961120.github.io
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
