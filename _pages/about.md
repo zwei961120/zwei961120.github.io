@@ -12,14 +12,12 @@ redirect_from:
 <br>
 I am a 2nd year Ph.D. student in the Thrust of Earth, Ocean and Atmospheric Sciences at the Hong Kong University of Science and Technology (Guangzhou). Before joining HKUST(GZ) in September 2022, I did my master's research in the [School of Oceanography](https://soo.sjtu.edu.cn), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn), working with [Prof. Zharu Zhang](https://soo.sjtu.edu.cn/szTeachers/3589.html). I did some work in the air-ice-sea interaction processes in the Souther Ocean. I received my bachelor's degree of Petrolumn Engineering in the [School of Petroleum Engineering](https://pe.upc.edu.cn/?ivk_sa=1024320u), [China University of Petroleum](https://www.upc.edu.cn).
 
-Now, I am doing some Large 
-
-Currently, I serve as a research intern in Speech and Semantic Group of Huawei Noah's Ark Lab (Hong Kong).
+Now, I am doing Large Eddy Simulations by using software ***[Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl)*** to better understand the mixing processes in ocean boundary layers under the guidance of [Prof. Qing Li](https://qingli411.github.io/). I am also interested in how to improve existed turbulence closure models based on our understandings of mixing processes by using 1D water column model —— ***[General Ocean Turbulence Model](https://gotm.net/portfolio/)***.
 
 This webpage is last updated on **Sep 30, 2023**.
 
-
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+## Sitemap
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=288&t=m&d=2ljZF6KFfkxp4wxQ6pxUE1Dq5gPitQBApoOxIIRgnkU'></script>
 
 A data-driven personal website
 ======
