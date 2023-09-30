@@ -29,7 +29,7 @@ This webpage is last updated on **Sep 30, 2023**.
   * GPA: 3.31/4.0 (3/40)
     
 * **[National University of Oil and Gas (Gubkin University)](https://en.gubkin.ru/), Moscow, Russia**
-  * Graduation Project funded by [*China Scholarship Council*](https://www.csc.edu.cn/)
+  * Graduation Project and Thesis funded by [*China Scholarship Council*](https://www.csc.edu.cn/)
   
 * **China University of Petroleum [(UPC)](https://www.upc.edu.cn/), Tsingtao, China**
   * B.S. of [*Petroleum Engineering*](https://pe.upc.edu.cn/), *Sept. 2015 -- Jun. 2019*
