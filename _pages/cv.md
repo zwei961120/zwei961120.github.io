@@ -1,9 +1,12 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "CV"
+permalink: /cv/
 author_profile: true
+redirect_from:
+  - /resume
 ---
-<script async defer src="https://buttons.github.io/buttons.js"></script>
+
+{% include base_path %}
 
 If you need, please contact me by [email](zwei002 [at] connect [dot] hkust-gz [dot] edu [dot] cn) 🙂 ~
