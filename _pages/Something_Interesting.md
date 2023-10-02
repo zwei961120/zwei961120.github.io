@@ -1,9 +1,9 @@
 ---
-permalink: /markdown/
+permalink: /SI/
 title: "🐬🌊🐠🚢👨🏽‍🏭👨🏽‍💻🤵🏽‍♂️"
 author_profile: true
 redirect_from: 
-  - /md/
+  - /SI/
   - /Something_Interesting.html
 ---
 
