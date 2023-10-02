@@ -14,7 +14,7 @@ I am a second year Ph.D. student of the Earth, Ocean and Atmospheric Sciences Th
 
 Now, I am doing large eddy simulations by using software ***[Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl)*** to better understand the mixing processes in ocean boundary layers. I am also interested in how to improve existed turbulence closure models based on our understandings of mixing processes by using 1D water column model -- ***[General Ocean Turbulence Model](https://gotm.net/portfolio/)***. All of above research are conducted under the guidance of [Prof. Qing Li](https://qingli411.github.io/).
 
-This webpage is last updated on **Sep 30, 2023**.
+This webpage is last updated on **Oct. 02, 2023**.
 
 ## Research Interests
 * Ocean boundary layer turbulence simulation
