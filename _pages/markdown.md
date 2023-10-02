@@ -9,15 +9,9 @@ redirect_from:
 
 ## Memories of Pearl River Estuary Survey & Research
 
-<video controls>
+<video width="320" height="240" controls>
   <source src="/files/dolphin.mov" type="video/quicktime">
   Your browser does not support the video tag.
-  <style>
-  .my-video {
-    width: 50%;
-    height: auto; 
-    max-width: 800px;
-  }
 </video>
 
 
