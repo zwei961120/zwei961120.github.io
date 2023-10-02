@@ -48,5 +48,12 @@ redirect_from:
   <img src="/images/CTD.jpg" width="20%"  height = "150" />
 </p>
 
+### The first photo of our research group ❤️💛🧡💚🖤💙💜
+
+<p float="left">
+  <img src="/images/Group.jpg" width="80%" height = "550" />
+</p>
+
+From left to right: Wentao Pan, Cheng Jin, Prof. Qing Li, Shihao Zou, Xinghao Jiang, Zheng Wei (Me)
 
 To be continued......☺️
