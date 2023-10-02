@@ -4,7 +4,7 @@ title: "🐬🌊🐠🚢👨🏽‍🏭👨🏽‍💻🤵🏽‍♂️"
 author_profile: true
 redirect_from: 
   - /md/
-  - /markdown.html
+  - /Something_Interesting.html
 ---
 
 ## Memories of Pearl River Estuary Survey & Research
