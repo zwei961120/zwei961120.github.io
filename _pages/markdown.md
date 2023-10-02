@@ -12,14 +12,14 @@ redirect_from:
 <video controls>
   <source src="/files/dolphin.mov" type="video/quicktime">
   Your browser does not support the video tag.
-</video>
-
-<style>
+  <style>
   .my-video {
     width: 50%;
     height: auto; 
     max-width: 800px;
   }
+</video>
+
 
 ## Tips and hints
 
