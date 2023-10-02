@@ -14,6 +14,13 @@ redirect_from:
   Your browser does not support the video tag.
 </video>
 
+<style>
+  .my-video {
+    width: 50%;
+    height: auto; 
+    max-width: 800px;
+  }
+
 ## Tips and hints
 
 * Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
