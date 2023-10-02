@@ -9,11 +9,41 @@ redirect_from:
 
 ## Memories of Pearl River Estuary Survey & Research
 
-<video width="320" height="240" controls>
+### Cute sousa chinensis 中华白海豚🐬😆
+
+<video width="640" height="480" controls>
   <source src="/files/dolphin.mov" type="video/quicktime">
   Your browser does not support the video tag.
 </video>
 
+### Underpassing the Hong Kong-Zhuhai-Macao Bridge
+
+<video width="640" height="480" controls>
+  <source src="/files/dolphin.mov" type="video/quicktime">
+  Your browser does not support the video tag.
+</video>
+
+
+### Some work photos🛠️👨🏽‍🔧
+
+<p float="left">
+  <img src="/images/2511696228699_.pic_hd.jpg" width="20%" height = "150" />
+  <img src="/images/2561696229350_.pic_hd.jpg" width="20%"  height = "150" />
+  <img src="/images/2531696228703_.pic_hd.jpg" width="20%"  height = "150" />
+  <img src="/images/2541696228778_.pic.jpg" width="15%"  height = "150" />
+</p>
+
+
+
+### Some amazing sunset photos 🌅🫰👨🏻‍🎓👨🏽‍🎓👨🏿‍🎓🤘
+
+<p float="left">
+  <img src="/images/we.jpg" width="20%" height = "150" />
+  <img src="/images/we2.jpg" width="20%"  height = "150" />
+  <img src="/images/sunset.jpg" width="20%"  height = "150" />
+  <img src="/images/oil.jpg" width="20%"  height = "150" />
+  <img src="/images/they.jpg" width="20%"  height = "150" />
+</p>
 
 ## Tips and hints
 
