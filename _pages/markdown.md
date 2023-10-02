@@ -43,6 +43,7 @@ redirect_from:
   <img src="/images/sunset.jpg" width="20%"  height = "150" />
   <img src="/images/oil.jpg" width="20%"  height = "150" />
   <img src="/images/they.jpg" width="20%"  height = "150" />
+  <img src="/images/shadow.jpg" width="20%"  height = "150" />
 </p>
 
 ## Tips and hints
