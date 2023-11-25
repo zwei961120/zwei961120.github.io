@@ -57,3 +57,9 @@ redirect_from:
 From left to right: Wentao Pan, Cheng Jin, Prof. Qing Li, Shihao Zou, Xinghao Jiang, Zheng Wei (Me)
 
 To be continued......☺️
+
+## Xarray Tutorial ~~~ (Group Meeting)
+
+If you are interested in Xarray (a very useful tool to deal with netCDF dataset), you can find the demo code in https://github.com/zwei961120/Xarray_Demo !
+And any suggestions and comments are welcome !
+
