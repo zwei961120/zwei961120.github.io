@@ -6,6 +6,13 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
+## Tedious April ~~~ (Struggling on my PhD Qualifying Exam report.....Nothing interesting.....)
+
+<p float="left">
+  <img src="/images/PQE_report.jpg" width="20%" height = "150" />
+</p>
+
+God, bless me good luck on PQE, please!!! 😢 (30, Apr., 2024)
 
 ## Memories of Pearl River Estuary Survey & Research
 
