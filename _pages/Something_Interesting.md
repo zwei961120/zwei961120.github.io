@@ -9,7 +9,7 @@ redirect_from:
 ## Tedious April ~~~ (Struggling on my PhD Qualifying Exam report.....Nothing interesting.....)
 
 <p float="left">
-  <img src="/images/PQE_report.jpg" width="20%" height = "150" />
+  <img src="/images/PQE_report.jpg" width="80%" height = "550" />
 </p>
 
 God, bless me good luck on PQE, please!!! 😢 (30, Apr., 2024)
