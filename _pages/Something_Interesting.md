@@ -7,7 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
-## Zheng has passed the PhD Qualifying Exam！！！！🌹
+## Zheng has passed the PhD Qualifying Exam！！！！(May 30, 2024) 🌹
 
 ## Tedious April ~~~ (Struggling on my PhD Qualifying Exam report.....Nothing interesting.....)
 
