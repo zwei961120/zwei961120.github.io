@@ -9,10 +9,6 @@ redirect_from:
 
 ## Zheng has passed the PhD Qualifying Exam！！！！🌹
 
-<p float="left">
-  <img src="/images/PQE_pre.jpg" width="80%" height = "550" />
-</p>
-
 ## Tedious April ~~~ (Struggling on my PhD Qualifying Exam report.....Nothing interesting.....)
 
 <p float="left">
