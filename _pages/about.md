@@ -36,6 +36,7 @@ This webpage is last updated on **Oct. 02, 2023**.
   * GPA: 3.7/4.0 (14/273)
 
 ## Awards
+* Outstanding Graduates of SJTU, 2022.
 * Guanghua Scholarship, SJTU, 2021.
 * First Prize Scholarship, SJTU, 2020.
 * Outstanding Graduates of Shandong Province, UPC, 2019.
