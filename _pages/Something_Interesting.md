@@ -7,6 +7,21 @@ redirect_from:
   - /markdown.html
 ---
 
+## Zheng has attended AGU 2024 Annual Meeting and made lots of friends! Keep going!
+
+<p float="left">
+  <img src="/images/AGU_1.jpg" width="20%" height = "150" />
+</p>
+
+<p float="left">
+  <img src="/images/AGU_2.jpg" width="20%" height = "150" />
+</p>
+
+<p float="left">
+  <img src="/images/AGU_3.jpg" width="20%" height = "150" />
+</p>
+
+
 ## Zheng has passed the PhD Qualifying Exam！！！！(May 30, 2024) 🌹
 
 ## Tedious April ~~~ (Struggling on my PhD Qualifying Exam report.....Nothing interesting.....)
