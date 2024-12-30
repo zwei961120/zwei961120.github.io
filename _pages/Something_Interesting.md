@@ -14,7 +14,7 @@ redirect_from:
 </p>
 
 <p float="left">
-  <img src="/images/AGU_2.jpg" width="20%" height = "150" />
+  <img src="/images/AGU_4.jpg" width="20%" height = "150" />
 </p>
 
 <p float="left">
