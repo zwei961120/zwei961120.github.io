@@ -9,7 +9,7 @@ redirect_from:
 
 ## Our new work has been submitted to JAMES, here is the link of our preprint that has not been peer-reviewed, welcome any discussions! 😄
 
-The link: https://d197for5662m48.cloudfront.net/documents/publicationstatus/245614/preprint_pdf/d8f2290c7d842ed7faee6655769e80de.pdf
+[The link 📚](https://d197for5662m48.cloudfront.net/documents/publicationstatus/245614/preprint_pdf/d8f2290c7d842ed7faee6655769e80de.pdf)
 
 ## Zheng has attended AGU 2024 Annual Meeting and made lots of friends! Keep going!
 
