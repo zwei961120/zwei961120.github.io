@@ -26,15 +26,7 @@ redirect_from:
 </p>
 
 
-## Zheng has passed the PhD Qualifying Exam！！！！(May 30, 2024) 🌹
-
-## Tedious April ~~~ (Struggling on my PhD Qualifying Exam report.....Nothing interesting.....)
-
-<p float="left">
-  <img src="/images/PQE_report.jpg" width="80%" height = "550" />
-</p>
-
-God, bless me good luck on PQE, please!!! 😢 (30, Apr., 2024)
+## Zheng has passed the PhD Qualifying Exam！！！！(May 30, 2024) 
 
 ## Memories of Pearl River Estuary Survey & Research
 
