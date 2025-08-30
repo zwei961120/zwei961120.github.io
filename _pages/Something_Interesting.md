@@ -7,7 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
-## Our new work has been submitted to JAMES, here is the link of our preprint that has not been peer-reviewed, welcome any discussions! 😄
+## Our new work has been submitted to JAMES, here is the link of our preprint that are under reivew, welcome any discussions! 😄
 
 [The link 📚](https://d197for5662m48.cloudfront.net/documents/publicationstatus/245614/preprint_pdf/d8f2290c7d842ed7faee6655769e80de.pdf)
 
