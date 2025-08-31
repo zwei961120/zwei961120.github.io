@@ -68,19 +68,3 @@ redirect_from:
   <img src="/images/amazing_sunset.jpg" width="20%"  height = "150" />
   <img src="/images/CTD.jpg" width="20%"  height = "150" />
 </p>
-
-### The first photo of our research group ❤️💛🧡💚🖤💙💜
-
-<p float="left">
-  <img src="/images/Group.jpg" width="80%" height = "550" />
-</p>
-
-From left to right: Wentao Pan, Cheng Jin, Prof. Qing Li, Shihao Zou, Xinghao Jiang, Zheng Wei (Me)
-
-To be continued......☺️
-
-## Xarray Tutorial ~~~ (Group Meeting)
-
-If you are interested in Xarray (a very useful tool to deal with netCDF dataset), you can find the demo code [here](https://github.com/zwei961120/Xarray_Demo) !
-And any suggestions and comments are welcome !
-
