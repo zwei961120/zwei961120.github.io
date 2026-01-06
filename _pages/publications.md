@@ -7,9 +7,9 @@ author_profile: true
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 
 ## Journal
-- **A Direct Assessment of Langmuir Turbulence Parameterizations in Idealized Coastal Merging Boundary Layers**\
+- **A direct assessment of Langmuir turbulence parameterizations in idealized coastal merging boundary layers**\
 <span style="color:darkblue">**Zheng Wei**</span>, Qing Li (corresponding author), Bicheng Chen.\
-Submitted to *Journal of Advances in Modeling Earth Systems, 2025*
+Published in *Journal of Advances in Modeling Earth Systems, 18(1), e2025MS004993, 2026*
 
 - **The Thermodynamic and Dynamic Control of the Sensible Heat Polynya in the Western Cosmonaut Sea**\
 <span style="color:darkblue">**Zheng Wei**</span>, Zhaoru Zhang (corresponding author), Xiaoqiao Wang, Yuanjie Chen and Meng Zhou.\
